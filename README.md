@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Wai Yip LIEW from Kuala Lumpur, MALAYSIA <a href="https://github.com/liewwy19/liewwy19">@liewwy19</a>
 - 👀 I’m interested in everything CLOUD, AI, Machine Learning, and Deep Learning
+- ⚡ Continuously upskilling and expanding my DevOps Stack and MLOps Stack 
 - 📫 You can reach me through <a href="https://www.linkedin.com/in/liewwy19/" target="_blank"><img src="assets/linkedin-logo-2430.svg" height="18px" align="center" alt="liewwy19" /></a> [LinkedIn.com/in/liewwy19](https://www.linkedin.com/in/liewwy19/)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
