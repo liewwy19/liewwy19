@@ -1,6 +1,6 @@
 👋 Hi, I’m Wai Yip LIEW from Kuala Lumpur, MALAYSIA <a href="https://github.com/liewwy19/liewwy19">@liewwy19</a>
 
-👀 I’m interested in everything CLOUD, AI, Machine Learning, and Deep Learning
+👀 I’m interested in Cloud Innovation, AI, Machine Learning, and Deep Learning
 
 ⚡ Continuously upskilling and expanding my DevOps Stack and MLOps Stack 
 
